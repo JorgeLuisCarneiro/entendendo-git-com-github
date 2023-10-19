@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exemplo de CSS Básico</title>
+    <style>
+        /* Estilos CSS inline (dentro da tag <style>) */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        .destaque {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+
+</body>
+</html>
