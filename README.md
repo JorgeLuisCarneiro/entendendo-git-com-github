@@ -5,3 +5,5 @@
 ## Enteder o Git
 
 ## Entender o Github
+
+O github é uma plataforma de hospedagem de repositorios na nuvem.
